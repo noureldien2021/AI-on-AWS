@@ -1,6 +1,6 @@
 # AWS AI Dashboard 
 
-A **serverless project** that integrates 6 AWS AI services (Lex, Polly, Textract, Rekognition, Translate, and Comprehend) through **API Gateway** and **AWS Lambda**, enabling real-time demos, training, and business prototyping — all from a live dashboard.
+A **serverless project** that integrates 6 AWS AI services (Lex, Polly, Textract, Rekognition, Translate, and Comprehend) through **API Gateway** and **AWS Lambda**, enabling real-time demos, training, and business prototyping all from a live dashboard.
 
 ---
 
@@ -38,7 +38,7 @@ A **serverless project** that integrates 6 AWS AI services (Lex, Polly, Textract
 
 ---
 
-# Demo Link
+##  Demo Link
 
 You can view the live demo of the Serverless Image Processing project here:  
 
@@ -47,7 +47,7 @@ You can view the live demo of the Serverless Image Processing project here:
 </a>
 
 
-# Contact / Support
+##  Contact / Support
 
 For any questions or support regarding this project, you can reach me at:
 
