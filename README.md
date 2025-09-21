@@ -1,20 +1,20 @@
-# AWS AI Dashboard 🚀
+# AWS AI Dashboard 
 
 A **serverless project** that integrates 6 AWS AI services (Lex, Polly, Textract, Rekognition, Translate, and Comprehend) through **API Gateway** and **AWS Lambda**, enabling real-time demos, training, and business prototyping — all from a live dashboard.
 
 ---
 
-## 🌟 Features
-- 🎙 **Lex** – Conversational chatbot service  
-- 🗣 **Polly** – Text-to-Speech (TTS) conversion  
-- 📑 **Textract** – Extract text from scanned documents  
-- 🖼 **Rekognition** – Image and video analysis  
-- 🌍 **Translate** – Real-time language translation  
-- 💬 **Comprehend** – Natural language processing and sentiment analysis  
+##  Features
+-  **Lex** – Conversational chatbot service  
+-  **Polly** – Text-to-Speech (TTS) conversion  
+-  **Textract** – Extract text from scanned documents  
+-  **Rekognition** – Image and video analysis  
+-  **Translate** – Real-time language translation  
+-  **Comprehend** – Natural language processing and sentiment analysis  
 
 ---
 
-## ⚙️ Architecture
+##  Architecture
 1. User interacts with the **dashboard**.  
 2. Request goes to **Amazon API Gateway**.  
 3. **Lambda function** processes the request.  
