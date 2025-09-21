@@ -1,2 +1,0 @@
-api translate:
-https://tuz9qxci0a.execute-api.us-east-1.amazonaws.com/dev/translate
