@@ -40,7 +40,7 @@ A **serverless project** that integrates 6 AWS AI services (Lex, Polly, Textract
 
 ##  Demo Link
 
-You can view the live demo of the Serverless Image Processing project here:  
+You can view the live demo:  
 
 <a href="https://drive.google.com/file/d/1ACeIJdEJSXuSmRZBK_7d6zCG5rxdb76S/view">
   <img src="https://github.com/noureldien2021/Project-2-Serverless-Image-Processing-with-S3-and-Lambda/blob/main/demo2.jpg?raw=true" alt="Demo Video" width="70"/>
