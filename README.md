@@ -21,12 +21,6 @@ A **serverless project** that integrates 6 AWS AI services (Lex, Polly, Textract
 4. Lambda calls the selected **AWS AI service**.  
 5. The response is returned to the dashboard in real-time.  
 
----
-
-##  Use Cases
-1. **Training & Education** → Students can explore AWS AI services hands-on.  
-2. **Business & Prototyping** → Companies can test multiple AI services in one place.  
-3. **Demo & Showcase** → Quickly demonstrate AWS AI capabilities in workshops or presentations.  
 
 ---
 
